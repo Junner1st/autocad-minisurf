@@ -1,0 +1,4 @@
+numpy>=2.0,<3
+scipy>=1.14,<2
+gmpy2>=2.2,<3
+pywin32>=308; sys_platform == "win32"
