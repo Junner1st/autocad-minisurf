@@ -2,6 +2,8 @@
 
 以 Python 3.12、pywin32、NumPy、gmpy2、SciPy 與 AutoCAD 2027，從封閉 3D 邊界建立近似 minimal surface，輸出到獨立圖層的三角形 `3DFACE`。
 
+![](resource/surf-pic.png)
+
 ## 安裝與使用
 
 首次安裝，在專案目錄執行：
